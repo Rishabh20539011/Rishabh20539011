@@ -10,7 +10,7 @@ on project working in Data Science Domain and Currently seeking for good opprtun
 
 **Data Science Bootcamp, Jovian** (June 2021 - Feb 2022)
 
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning,Deep Learning, SQL & Analytics
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML).
 
 **M.Tech,Indian Institute of Technology, Roorkee**  (July 2020 - June 2022)
