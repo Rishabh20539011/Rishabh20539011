@@ -22,25 +22,15 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 Mechanical Engineering (Percentage- 85%)
 
-## Projects:
--[**Use of Ensemble Machine LearningModels to Reduce Fatalities in Aviation Industry**](https://jovian.ai/dwivedi-rishabh95/use-of-ensemble-modelling-to-reduce-fatalities-in-aviation-industry)
- 
-   Training 4.9 million and Testing 19 million rows of datasets from Kaggle Competition with different ensemble modeling techniques 
-   such as RandomForest, LightGBM, Xgboost. This multi-class classification data with tuned RandomForest Classifier lands us on the 
-   Top 26% of the Kaggle leaderboard.   
-   
--[Exploratory Data Analysis on Air Quality in Indian Cities and how it affected during Covid-19 Lockdown ](https://jovian.ai/dwivedi-rishabh95/analysis-on-quality-of-air-and-how-it-affected-during-lockdown)
+## Skills:
 
-   Data Collected from Kaggle, CPCB & GDB Compare's website having 50K rows and 16 Columns. 
-   Data Visualization helps us to describe the severity of Air pollution.
-   Various factors such as location, time, population, literacy rate, Covid-19 Lockdown, etc. are taken in to consideration
-   
--[Scraping Data from GRABCAD under various categories using Selenium](https://jovian.ai/dwivedi-rishabh95/project-web-scraping-with-python)
+- Python & Matlab Coding, Statistical testing, Blogs writing.
+- Data Analysis and Visualization (Numpy, Pandas,SQL, Tableau, Excel, Matplotlib, Seaborn, Plotly, folium, Dask, Parquet etc.)
+- Machine Learning (Data handling, Hypothesis testing, Scikit learn, Supervised & Unsupervised Models, Tuning etc.)
+- Deep Learning (Image Processing, GPU training, Pytorch, ANN, 2D & 3D CNN, ResNet etc.)
+- Domain Skills (Physics, Computer Aided Design, Finite Element Methods, Advanced Mechanical Vibrations, Material Science etc.) 
 
-  Extracted most popular 3D cad models under various categories from the GRABCAD website using Selenium. 
-  Extensive use of x_path, CSS selectors, functions, lists, dictionaries, etc. are used.
-
-
+### Checkout some of my workings on Data science projects in the repositories 👍
 
 
 
