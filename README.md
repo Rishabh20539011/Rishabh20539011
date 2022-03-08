@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-[Linkedin](https://www.linkedin.com/in/rishabh-dwivedi-609209208/)   |     [Jovian](https://jovian.ai/dwivedi-rishabh95)
+[Linkedin](https://www.linkedin.com/in/rishabh-dwivedi-609209208/)   |     [Jovian](https://jovian.ai/dwivedi-rishabh95) | [Medium](https://medium.com/@dwivedi.rishabh95)
 
 I am Rishabh Dwivedi, Currently pursuing my master's at IIT Roorkee (2020-22) in Machine Design Engineering.Fascinated with the power of AI/ML 
 in various Interdisciplinary domains which can improve existing technologies and bring a positive change. I have near about 1 year of experience
