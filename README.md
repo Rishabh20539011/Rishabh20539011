@@ -2,9 +2,10 @@
 
 [Linkedin](https://www.linkedin.com/in/rishabh-dwivedi-609209208/)   |     [Jovian](https://jovian.ai/dwivedi-rishabh95) | [Medium](https://medium.com/@dwivedi.rishabh95)
 
-I am Rishabh Dwivedi, Currently pursuing my master's at IIT Roorkee (2020-22) in Machine Design Engineering.Fascinated with the power of AI/ML 
+I am Rishabh Dwivedi, completed my master's at IIT Roorkee (2020-22) in Machine Design Engineering.Fascinated with the power of AI/ML 
 in various Interdisciplinary domains which can improve existing technologies and bring a positive change. I have near about 1 year of experience
-on project working in Data Science Domain and Currently seeking for good opprtunities in this field.
+on project working in Data Science Domain and Currently working as AI Engineer at Frinks Digital Technologies to develop highly accurate Quality Inspection 
+system in the field of manufacturing using different Computer vision algorithms. 
 
 ## Education:
 
